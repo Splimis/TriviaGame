@@ -1,0 +1,30 @@
+body {
+	background-image: url("../images/enterprise.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+#title{
+	font-size: 3em;
+	color: white;
+	text-align: center;
+}
+#start{
+	margin-left: 48.5%
+}
+
+#populus{
+	color: white;
+	margin-left: 37%;
+}
+#result{
+	font-size: 3em;
+}
+#invis:
+
+
+
+#timer {
+	font-size: 3em;
+	color: red;
+	text-align: center;
+}
